@@ -11,7 +11,9 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.14"
+    "next": "14.2.14",
+    "axios": "^0.21.1",
+    "framer-motion": "^4.0.3"
   },
   "devDependencies": {
     "postcss": "^8",
