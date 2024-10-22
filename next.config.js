@@ -4,7 +4,7 @@ module.exports = {
       return [
         {
           source: '/api/fetch-domains',
-          destination: 'https://api.xreverselabs.org/api/discover_domain?apiKey=FREE-TRIAL',
+          destination: 'https://api.xreverselabs.org/api/discover_domain?apiKey=DiscoverDomain',
         },
       ];
     },
